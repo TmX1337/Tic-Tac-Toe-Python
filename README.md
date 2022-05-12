@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Python
  
-Gra w kółko i krzyżyk na dwóch graczy napisana w Pytchonie.
+Gra w kółko i krzyżyk na dwóch graczy napisana w Pythonie.
 #
 ## Wygląd gry 
 ![image](https://user-images.githubusercontent.com/77391158/167959834-53acd472-2a6d-48bb-aa5a-fb11b5c7509b.png)
